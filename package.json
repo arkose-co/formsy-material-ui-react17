@@ -1,7 +1,7 @@
 {
-  "name": "formsy-material-ui-react16",
-  "version": "1.0.6",
-  "description": "A formsy-react compatibility wrapper for Material-UI form components with React 16",
+  "name": "formsy-material-ui-react17",
+  "version": "O.O.1",
+  "description": "A formsy-react compatibility wrapper for Material-UI form components with React 17",
   "keywords": [
     "formsy",
     "formsy-react",
@@ -17,8 +17,8 @@
     "formsy-react": "^1.1.4",
     "keycode": "^2.2.0",
     "material-ui": "^0.20.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react": "^17",
+    "react-dom": "^17"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
